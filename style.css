@@ -1,0 +1,169 @@
+* {
+  box-sizing: border-box;
+  margin: 30px 50px;
+}
+
+.clear-fix {
+  clear: both;
+}
+
+.container {
+  text-align: center;
+  background-color: rgb(78, 78, 155);
+  padding: 20px;
+  border-radius: 20px;
+  color: #f8fafc;
+}
+
+.container h4 {
+  display: inline-block;
+  border: 2px solid rgb(0, 68, 255);
+  border-radius: 20px;
+  color: #f8fafc;
+  padding: 10px 15px;
+  text-align: justify;
+}
+
+.container h4 a {
+  color: #f8fafc;
+}
+
+.container-about {
+  background-color: rgb(103, 103, 103);
+  border-radius: 20px;
+  color: #f8fafc;
+}
+
+.container-about h1 {
+  padding-top: 20px;
+}
+
+.container-about h2 {
+  padding-top: 30px;
+}
+
+.border-page {
+  border-top: 0.3px aqua solid;
+}
+
+.about-me img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+.about-me button {
+  display: block;
+  padding: 20px 10px;
+  border-radius: 20px;
+  background-color: #00a8ff;
+  color: #ffffff;
+}
+
+.container-skill {
+  background-color: rgb(116, 34, 34);
+  border-radius: 20px;
+  color: #f8fafc;
+}
+
+.border-skill {
+  border-top: 0.3px aqua solid;
+}
+
+.skill-card {
+  display: inline-block;
+  width: 270px;
+  height: 200px;
+  text-align: center;
+  border: 2px solid aqua;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.05);
+  color: #f8fafc;
+}
+.skill-card p {
+  text-align: start;
+}
+
+.container-skill h1 {
+  padding-top: 20px;
+}
+
+.container-exp {
+  background-color: rgb(86, 94, 94);
+  border-radius: 20px;
+  color: #f8fafc;
+}
+
+.container-exp h1 {
+  padding-top: 20px;
+}
+
+.border-exp {
+  border-top: 0.3px aqua solid;
+}
+
+.exp-1 {
+  border-left: 5px blue solid;
+  border-right: 1px rgb(129, 129, 141) solid;
+  border-top: 1px rgb(126, 126, 137) solid;
+  border-bottom: 1px rgb(145, 145, 158) solid;
+  border-radius: 25px;
+  margin-bottom: 25px;
+}
+.exp-1 h2 {
+  padding-top: 15px;
+}
+.exp-1 h4 {
+  padding-top: 30px;
+}
+
+.exp-1 img {
+  border: 0.3px white solid;
+  border-radius: 25px;
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+.exp-2 {
+  padding-right: 50px;
+  border-left: 5px blue solid;
+  border-right: 1px rgb(129, 129, 141) solid;
+  border-top: 1px rgb(126, 126, 137) solid;
+  border-bottom: 1px rgb(145, 145, 158) solid;
+  border-radius: 25px;
+}
+
+.exp-2 h2 {
+  padding-top: 15px;
+}
+
+.exp-2 h4 {
+  padding-top: 30px;
+}
+
+.exp-2 img {
+  border: 0.3px white solid;
+  border-radius: 30px;
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+.contact {
+  background-color: #30a975;
+  padding-top: 10px;
+  border-radius: 25px;
+  
+}
+.border-contact {
+  border-top: 0.3px aqua solid;
+
+}
+.contact button {
+  padding: 25px 30px;
+  border-radius: 25px;
+  background-color: #9ba7ac;
+  color: #5c3a3a;
+float: left;
+
+}
